@@ -7,3 +7,4 @@ window.showSection = function (sectionId) {
 document.querySelector('.icons[box-icon-name="shopping-bag"]').addEventListener('click', function () {
     document.querySelector('#shopping-cart').style.display = 'block';
 });
+
