@@ -123,6 +123,7 @@ body {
 
 .hero {
   background: url("../IMG/Hero.png");
+  background-size: cover;
   width: 100%;
   height: 648px;
   background-size: 100%;
@@ -304,6 +305,7 @@ body {
   max-width: 1366px;
 }
 .hero-about {
+  background-size: cover;
   background: url("../IMG/top_ab.jpg");
   width: 100%;
   height: 348px;
@@ -400,6 +402,7 @@ body {
 }
 .hero_contact {
   background: url("../IMG/top_contract.jpg");
+  background-size: cover;
   width: 100%;
   height: 348px;
   position: static;
